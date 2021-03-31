@@ -1,0 +1,9 @@
+{
+  "name": "torrent-aio-bot",
+  "description": "All in one bot for torrenting",
+  "repository": "https://github.com/vpn12/asdf11",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+  ]
+}
